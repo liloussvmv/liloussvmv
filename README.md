@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed-Oussama Fadel
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Security
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on security projects
 - 📫 How to reach me : https://www.linkedin.com/in/medoussamafadel
 
 <!---
